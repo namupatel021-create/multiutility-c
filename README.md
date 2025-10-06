@@ -4,4 +4,4 @@
 <img scr="output/p2.png"/>
 <h2>Angle</h2>
 <img scr="output/p3.png" />
-<imag scr="output/p1.png"/>
+<img src="output/p1.png" />
