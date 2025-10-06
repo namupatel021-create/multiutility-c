@@ -1,7 +1,7 @@
 <h2>Temperature</h2>
 <img src="output/p1.png" />
 <h2>Salary</h2>
-<img scr="output/p2.png"/>
+<img src="output/p2.png" />
 <h2>Angle</h2>
-<img scr="output/p3.png" />
+<img src="output/p3.png" />
 
