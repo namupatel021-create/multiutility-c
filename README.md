@@ -1,14 +1,14 @@
-<h2>Temperature</h2>
-<img src="output/p1.png" />
-<h2>Salary</h2>
-<img src="output/p2.png" />
-<h2>Angle</h2>
-<img src="output/p3.png" />
-<h2>Grade</h2>
-<img src="grade/Grade.png" />
-<h2>Alphabet</h2>
-<img src="Looper/alphabet.png" />
-<h2>Digitaddition</h2>
-<img src="Looper/digitaddition.png" />
-<h2>Digitcount</h2>
-<img src="Looper/digitcount.png" />
+<h2>Customise</h2>
+<img src="patter/customise.png" />
+<h2>Floydstriangle</h2>
+<img src="patter/floydstriangle.png" />
+<h2>Invertedtriangle</h2>
+<img src="patter/invertedtriangle.png" />
+<h2>Lefthalftriangle</h2>
+<img src="patter/lefthalftriangle.png" />
+<h2>Pletter</h2>
+<img src="patter/pletter.png" />
+<h2>Pyramid</h2>
+<img src="patter/pyramid.png" />
+<h2>Righthalftriangle</h2>
+<img src="patter/righthalftriangle.png" />
