@@ -14,3 +14,5 @@
 <img src="assortment-output/negativeelement.png" />
 <h2>Assortmen Row and column</h2>
 <img src="assortment-output/rowNcolumn.png" />
+<h2>calculator menu program</h2>
+<img src="calculator-output/menu.png" />
