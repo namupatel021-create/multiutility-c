@@ -1,4 +1,4 @@
-<h2>1Darray</h2>
+   <h2>1Darray</h2>
 <img src="arrayoutput/1DARRAY.png" />
 <h2>2Darray</h2>
 <img src="arrayoutput/2DARRAY.png" />
