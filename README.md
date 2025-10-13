@@ -4,7 +4,7 @@
 <img src="arrayoutput/2DARRAY.png" />
 <h2>Row and column</h2>
 <img src="arrayoutput/rowNcolumn.png" />
-<h2>matrix</h2>
+<h2>Matrix</h2>
 <img src="arrayoutput/matrix.png" />
 <h2>Largestelement</h2>
 <img src="assortment-output/largestelement.png" />
